@@ -1,3 +1,4 @@
-<div class="text-white max-w-2xl mx-auto mt-10 p-8 bg-gray-950 border border-gray-700 rounded-lg">
-abc
-</div> 
+<h1>QC NewBooks</h1> 
+<h2>General Ledger</h2>
+<p>Track debits and credits for QC Consulting.</p>
+<p>Built by a Queens College accounting student.</p> 
