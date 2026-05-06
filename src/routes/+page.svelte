@@ -1,4 +1,4 @@
-<div class="max-w-2xl mx-auto mt-10 p-8 bg-gray-950 border border-gray-700 rounded-lg">
+ cls<div class="max-w-2xl mx-auto mt-10 p-8 bg-gray-950 border border-gray-700 rounded-lg">
   <h1 class="text-2xl font-bold text-center mb-6 text-cyan-400">Budgeted Income Statement</h1>
     <div class="flex justify-between py-3 border-b border-gray-700">
     <span class="text-gray-300"> Gross Revenue</span>
